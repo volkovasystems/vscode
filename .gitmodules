@@ -1,0 +1,27 @@
+[submodule "ujdi"]
+	path = ujdi
+	url = https://github.com/volkovasystems/ujdi.git
+[submodule "ssrd"]
+	path = ssrd
+	url = https://github.com/volkovasystems/ssrd.git
+[submodule "library-node"]
+	path = library-node
+	url = https://github.com/volkovasystems/library-node.git
+[submodule "niagara"]
+	path = niagara
+	url = https://github.com/volkovasystems/niagara.git
+[submodule "icon"]
+	path = icon
+	url = https://github.com/volkovasystems/icon.git
+[submodule "benu"]
+	path = benu
+	url = https://github.com/volkovasystems/benu.git
+[submodule "signal"]
+	path = signal
+	url = https://github.com/volkovasystems/signal.git
+[submodule "adaptable"]
+	path = adaptable
+	url = https://github.com/volkovasystems/adaptable.git
+[submodule "concise"]
+	path = concise
+	url = https://github.com/volkovasystems/concise.git
