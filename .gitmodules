@@ -43,3 +43,21 @@
 [submodule "vsapp"]
 	path = vsapp
 	url = https://github.com/volkovasystems/vsapp.git
+[submodule "vsdependency"]
+	path = vsdependency
+	url = https://github.com/volkovasystems/vsdependency.git
+[submodule "vslibrary"]
+	path = vslibrary
+	url = https://github.com/volkovasystems/vslibrary.git
+[submodule "solomon"]
+	path = solomon
+	url = https://github.com/volkovasystems/solomon.git
+[submodule "ebla"]
+	path = ebla
+	url = https://github.com/volkovasystems/ebla.git
+[submodule "grimoire"]
+	path = grimoire
+	url = https://github.com/volkovasystems/grimoire.git
+[submodule "syllogi"]
+	path = syllogi
+	url = https://github.com/volkovasystems/syllogi.git
