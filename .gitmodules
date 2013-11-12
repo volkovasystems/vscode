@@ -34,3 +34,9 @@
 [submodule "vsutility"]
 	path = vsutility
 	url = https://github.com/volkovasystems/vsutility.git
+[submodule "barter-app"]
+	path = barter-app
+	url = https://github.com/monkeymouse/barter-app.git
+[submodule "brags-app"]
+	path = brags-app
+	url = https://github.com/volkovasystems/brags-app.git
