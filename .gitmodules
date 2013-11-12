@@ -25,3 +25,12 @@
 [submodule "concise"]
 	path = concise
 	url = https://github.com/volkovasystems/concise.git
+[submodule "library"]
+	path = library
+	url = https://github.com/volkovasystems/library.git
+[submodule "node_modules"]
+	path = node_modules
+	url = https://github.com/volkovasystems/node_modules.git
+[submodule "vsutility"]
+	path = vsutility
+	url = https://github.com/volkovasystems/vsutility.git
