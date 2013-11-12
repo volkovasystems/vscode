@@ -40,3 +40,6 @@
 [submodule "brags-app"]
 	path = brags-app
 	url = https://github.com/volkovasystems/brags-app.git
+[submodule "vsapp"]
+	path = vsapp
+	url = https://github.com/volkovasystems/vsapp.git
