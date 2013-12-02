@@ -61,3 +61,6 @@
 [submodule "syllogi"]
 	path = syllogi
 	url = https://github.com/volkovasystems/syllogi.git
+[submodule "vstest"]
+	path = vstest
+	url = https://github.com/volkovasystems/vstest.git
