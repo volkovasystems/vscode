@@ -64,3 +64,6 @@
 [submodule "vstest"]
 	path = vstest
 	url = https://github.com/volkovasystems/vstest.git
+[submodule "vsmain"]
+	path = vsmain
+	url = https://github.com/volkovasystems/vsmain.git
