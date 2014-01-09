@@ -73,3 +73,6 @@
 [submodule "templar"]
 	path = templar
 	url = https://github.com/volkovasystems/templar.git
+[submodule "siodina-app"]
+	path = siodina-app
+	url = https://github.com/volkovasystems/siodina-app.git
