@@ -67,3 +67,12 @@
 [submodule "vsmain"]
 	path = vsmain
 	url = https://github.com/volkovasystems/vsmain.git
+[submodule "syrup"]
+	path = syrup
+	url = https://github.com/volkovasystems/syrup.git
+[submodule "grocerybox-app"]
+	path = grocerybox-app
+	url = https://github.com/volkovasystems/grocerybox-app.git
+[submodule "templar"]
+	path = templar
+	url = https://github.com/volkovasystems/templar.git
