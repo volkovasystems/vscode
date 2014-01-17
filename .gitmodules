@@ -79,3 +79,6 @@
 [submodule "meta"]
 	path = meta
 	url = https://github.com/volkovasystems/meta.git
+[submodule "class-callback"]
+	path = class-callback
+	url = https://github.com/volkovasystems/class-callback.git
