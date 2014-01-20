@@ -82,3 +82,15 @@
 [submodule "class-callback"]
 	path = class-callback
 	url = https://github.com/volkovasystems/class-callback.git
+[submodule "class-range"]
+	path = class-range
+	url = https://github.com/volkovasystems/class-range.git
+[submodule "class-path"]
+	path = class-path
+	url = https://github.com/volkovasystems/class-path.git
+[submodule "class-file"]
+	path = class-file
+	url = https://github.com/volkovasystems/class-file.git
+[submodule "ocis"]
+	path = ocis
+	url = https://github.com/volkovasystems/ocis.git
