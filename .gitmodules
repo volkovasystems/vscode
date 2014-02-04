@@ -94,3 +94,24 @@
 [submodule "ocis"]
 	path = ocis
 	url = https://github.com/volkovasystems/ocis.git
+[submodule "class-map"]
+	path = class-map
+	url = https://github.com/volkovasystems/class-map.git
+[submodule "class-command"]
+	path = class-command
+	url = https://github.com/volkovasystems/class-command.git
+[submodule "class-collection"]
+	path = class-collection
+	url = https://github.com/volkovasystems/class-collection.git
+[submodule "class-keys"]
+	path = class-keys
+	url = https://github.com/volkovasystems/class-keys.git
+[submodule "chore"]
+	path = chore
+	url = https://github.com/volkovasystems/chore.git
+[submodule "hypercut"]
+	path = hypercut
+	url = https://github.com/volkovasystems/hypercut.git
+[submodule "domino"]
+	path = domino
+	url = https://github.com/volkovasystems/domino.git
