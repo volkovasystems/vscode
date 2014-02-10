@@ -115,3 +115,27 @@
 [submodule "domino"]
 	path = domino
 	url = https://github.com/volkovasystems/domino.git
+[submodule "collection-regroup"]
+	path = collection-regroup
+	url = https://github.com/volkovasystems/collection-regroup.git
+[submodule "partition"]
+	path = partition
+	url = https://github.com/volkovasystems/partition.git
+[submodule "looop"]
+	path = looop
+	url = https://github.com/volkovasystems/looop.git
+[submodule "class-moment"]
+	path = class-moment
+	url = https://github.com/volkovasystems/class-moment.git
+[submodule "class-agreement"]
+	path = class-agreement
+	url = https://github.com/volkovasystems/class-agreement.git
+[submodule "class-linker"]
+	path = class-linker
+	url = https://github.com/volkovasystems/class-linker.git
+[submodule "odyssey"]
+	path = odyssey
+	url = https://github.com/volkovasystems/odyssey.git
+[submodule "nth-root"]
+	path = nth-root
+	url = https://github.com/volkovasystems/nth-root.git
