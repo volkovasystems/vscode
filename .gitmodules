@@ -139,3 +139,6 @@
 [submodule "nth-root"]
 	path = nth-root
 	url = https://github.com/volkovasystems/nth-root.git
+[submodule "indian"]
+	path = indian
+	url = https://github.com/volkovasystems/indian.git
