@@ -142,3 +142,6 @@
 [submodule "indian"]
 	path = indian
 	url = https://github.com/volkovasystems/indian.git
+[submodule "grado-app"]
+	path = grado-app
+	url = https://github.com/volkovasystems/grado-app.git
