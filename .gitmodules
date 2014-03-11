@@ -145,3 +145,51 @@
 [submodule "grado-app"]
 	path = grado-app
 	url = https://github.com/volkovasystems/grado-app.git
+[submodule "page-group"]
+	path = page-group
+	url = https://github.com/volkovasystems/page-group.git
+[submodule "page"]
+	path = page
+	url = https://github.com/volkovasystems/page.git
+[submodule "half-page"]
+	path = half-page
+	url = https://github.com/volkovasystems/half-page.git
+[submodule "reduce-zindex-levels"]
+	path = reduce-zindex-levels
+	url = https://github.com/volkovasystems/reduce-zindex-levels.git
+[submodule "ng-on-render"]
+	path = ng-on-render
+	url = https://github.com/volkovasystems/ng-on-render.git
+[submodule "selective-scenario"]
+	path = selective-scenario
+	url = https://github.com/volkovasystems/selective-scenario.git
+[submodule "compute-next-zindex"]
+	path = compute-next-zindex
+	url = https://github.com/volkovasystems/compute-next-zindex.git
+[submodule "absurd-reset"]
+	path = absurd-reset
+	url = https://github.com/volkovasystems/absurd-reset.git
+[submodule "ng-safe-apply"]
+	path = ng-safe-apply
+	url = https://github.com/volkovasystems/ng-safe-apply.git
+[submodule "ng-bind-dom"]
+	path = ng-bind-dom
+	url = https://github.com/volkovasystems/ng-bind-dom.git
+[submodule "ng-auto-resize"]
+	path = ng-auto-resize
+	url = https://github.com/volkovasystems/ng-auto-resize.git
+[submodule "force-auto-resize"]
+	path = force-auto-resize
+	url = https://github.com/volkovasystems/force-auto-resize.git
+[submodule "domo-stringify"]
+	path = domo-stringify
+	url = https://github.com/volkovasystems/domo-stringify.git
+[submodule "absurd-compiler"]
+	path = absurd-compiler
+	url = https://github.com/volkovasystems/absurd-compiler.git
+[submodule "ng-app-determine"]
+	path = ng-app-determine
+	url = https://github.com/volkovasystems/ng-app-determine.git
+[submodule "class-contract"]
+	path = class-contract
+	url = https://github.com/volkovasystems/class-contract.git
