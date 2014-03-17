@@ -193,3 +193,6 @@
 [submodule "class-contract"]
 	path = class-contract
 	url = https://github.com/volkovasystems/class-contract.git
+[submodule "ditto"]
+	path = ditto
+	url = https://github.com/volkovasystems/ditto.git
