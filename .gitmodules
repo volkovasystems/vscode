@@ -1,1 +1,4 @@
 
+[submodule "niagara"]
+	path = niagara
+	url = git@github.com:volkovasystems/niagara.git
