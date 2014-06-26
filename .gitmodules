@@ -2,3 +2,6 @@
 [submodule "niagara"]
 	path = niagara
 	url = git@github.com:volkovasystems/niagara.git
+[submodule "ujdi"]
+	path = ujdi
+	url = git@github.com:volkovasystems/ujdi.git
